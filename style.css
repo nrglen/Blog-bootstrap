@@ -51,7 +51,7 @@ p {
   font-size: 1.1em;
   text-align: center;
 }
-nav {
+.nav {
   background-color: #5bc0be; /* Turquesa principal */
   color: white;
   display: flex;
@@ -136,7 +136,7 @@ nav ul li a:hover {
   }
 }
 /* ====== FOOTER ====== */
-footer {
+.footer {
   background-color: #5bc0be;
   color: white;
   padding: 40px 20px;
