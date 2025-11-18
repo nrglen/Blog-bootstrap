@@ -1,0 +1,18 @@
+.card {
+  border-radius: 15px;
+}
+
+.card-img-top {
+  height: 250px;
+  object-fit: cover;
+}
+
+.card:hover {
+  transform: scale(1.02);
+  transition: 0.3s;
+}
+
+.card .card-title {
+  color: rgb(195, 93, 216);
+}
+
